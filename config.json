@@ -9,7 +9,7 @@
     },
     "heimuer": {
       "api": "https://json.heimuer.xyz/api.php/provide/vod",
-      "name": "黑木耳",
+      "name": "黑木耳"
       "detail": "https://heimuer.tv"
     },
     "ruyi": {
@@ -188,7 +188,7 @@
     },
     "TV-HY": {
       "api": "https://www.huyaapi.com/api.php/provide/vod",
-      "name": "TV-虎牙资源",
+      "name": "TV-虎牙资源"
     },
     "TV-DB002": {
       "api": "https://dbzy.tv/api.php/provide/vod",
@@ -411,7 +411,7 @@
     {
     "TV-YOUZI":{
       "api": "https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod",
-      "name": "优质资源库1080zyk6.com高清"
+      "name": "优质资源库1080zyk6"
     {
     "TV-QYZY":{
       "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
