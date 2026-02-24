@@ -160,7 +160,7 @@
     },
     "TV-VV002": {
       "api": "https://api.bwzyz.com/api.php/provide/vod",
-      "name": "VV-百万资源"
+      "name": "VV-BY资源"
     },
     "TV-DB": {
       "api": "https://caiji.dbzy.tv/api.php/provide/vod",
@@ -168,7 +168,7 @@
     },
     "TV-SY": {
       "api": "https://suoniapi.com/api.php/provide/vod",
-      "name": "TV-SY资源"
+      "name": "TV-SY资源009"
     },
     "TV-BDY": {
       "api": "https://api.apibdzy.com/api.php/provide/vod",
