@@ -170,9 +170,9 @@
       "api": "https://suoniapi.com/api.php/provide/vod",
       "name": "TV-索尼资源"
     },
-    "TV-BD": {
+    "TV-BDY": {
       "api": "https://api.apibdzy.com/api.php/provide/vod",
-      "name": "TV-百度云资源"
+      "name": "TV-BDY资源"
     },
     "TV-HN": {
       "api": "https://www.hongniuzy2.com/api.php/provide/vod",
