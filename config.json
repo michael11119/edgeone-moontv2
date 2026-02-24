@@ -168,7 +168,7 @@
     },
     "TV-SY": {
       "api": "https://suoniapi.com/api.php/provide/vod",
-      "name": "TV-SY资源009"
+      "name": "SY资源009"
     },
     "TV-BDY": {
       "api": "https://api.apibdzy.com/api.php/provide/vod",
